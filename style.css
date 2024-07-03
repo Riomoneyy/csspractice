@@ -1,5 +1,5 @@
 body{
-    background-color: #eee;
+    background-color: #eeeeee;
     font-family:Helvetica, Arial, sans-serif
 }
 
@@ -37,7 +37,14 @@ h1, h2, h3{
      width: 600px;   
      float: right;
 
-     #footer
+ #footer{
+    clear: both;
+    padding: 10px;
+    background-color: #999999;
+    color:white;
+    text-align: right;
+ }
+
      
     }
  }   
