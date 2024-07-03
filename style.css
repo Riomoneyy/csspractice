@@ -1,6 +1,6 @@
 body{
     background-color: #eee;
-    front-family:Helvetica, Arial, sans-serif
+    font-family:Helvetica, Arial, sans-serif
 }
 
 a{
@@ -28,6 +28,7 @@ h1, h2, h3{
 #nav ul{
     list-style-type: none;
 }padding: 0;
+
      #nav 
      width: 180px;
     }float: left;
@@ -37,5 +38,6 @@ h1, h2, h3{
      float: right;
 
      #footer
+     
     }
  }   
